@@ -1,0 +1,4 @@
+hi 
+bye
+go 
+run
